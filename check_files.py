@@ -187,7 +187,7 @@ def remove_initial_bar_chars(path):
 
 
 def remove_ending_bar_chars(path):
-    """Remove "/" character in the the end of a path in case exists
+    """Remove "/" character in the the end of a path in case exists  sada 
 
     Args:
         path (string): Path to be analized
